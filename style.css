@@ -1,0 +1,30 @@
+.container{
+    background-color:rgb(117, 207, 177)}
+
+
+
+.container1{
+    background-color: rgb(47, 105, 86);
+    height: 55px;
+    width: 15vw;
+    margin: auto;
+    padding-left: 28px;
+    padding-top: 15px;
+    margin-top: 20px;
+
+}
+
+.display-4{
+    text-align: center;
+}
+.lead{
+ text-align: center;
+}
+.btn-group-lg>.btn, .btn-lg {
+  margin-bottom: 5px;
+
+}
+
+nav.navbar.navbar-expand-lg.navbar-light {
+    background-color: rgb(62, 91, 95);
+}
